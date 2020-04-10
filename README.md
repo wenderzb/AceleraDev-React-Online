@@ -1,10 +1,10 @@
-<h1 align="center">
+<div align="center">
     <img alt="Logo da Codenation" title="#logoCodenation" src="./public/img/logoCodenation.png" />
-</h1>
+</div>
 
-<h4 align="center">
-  AceleraDev React - Codenation.
-</h4>
+<h1 align="center">
+  AceleraDev React
+</h1>
 
 <hr/>
 
