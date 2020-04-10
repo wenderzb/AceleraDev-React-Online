@@ -6,8 +6,6 @@
   AceleraDev React
 </h1>
 
-<hr/>
-
 <span name="objetivo"><strong>Objetivo</strong></span>
     <p>Compartilhar e amarzenar projetos feitos no AceleraDev</p>
 
