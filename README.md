@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo da Codenation" title="#logoCodenation" src="./public/img/logoCodenation.png" width="250px" />
+    <img alt="Logo da Codenation" title="#logoCodenation" src="./public/img/logoCodenation.png" />
 </h1>
 
 <h4 align="center">
