@@ -1,10 +1,10 @@
-<div align="center">
-    <img alt="Pagina de Filme IMDB" title="#imbd" src="./public/img/joker.png" />
-</div>
-
 <h1 align="center">
   Desafio 01 - IMDB
 </h1>
+
+<div align="center">
+    <img alt="Pagina de Filme IMDB" title="#imbd" src="./public/img/joker.png" />
+</div>
 
 <span name="objetivo"><strong>Objetivo</strong></span>
     <p>O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas HTML5 e CSS3.</p>
